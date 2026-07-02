@@ -77,33 +77,33 @@ musicBtn.onclick = function(){
 
 const photos=[
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p1.jpeg",
+"surant\p1.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p2.jpeg",
+"surant\p2.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p3.jpeg",
+"surant\p3.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p4.jpeg",
+"surant\p4.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p5.jpeg",
+"surant\p5.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p6.jpeg",
+"surant\p6.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p7.jpeg",
+"surant\p7.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p8.jpeg",
+"surant\p8.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p9.jpeg",
+"surant\p9.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p10.jpeg",
+"surant\p10.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p11.jpeg",
+"surant\p11.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p12.jpeg",
+"surant\p12.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p13.jpeg",
+"surant\p13.jpeg",
 
-"C:\Users\Nishant singh vats\OneDrive\Desktop\birthday project\surant\p14.jpeg",
+"surant\p14.jpeg",
 
 ];
 
