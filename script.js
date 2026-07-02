@@ -77,33 +77,33 @@ musicBtn.onclick = function(){
 
 const photos=[
 
-"surant/p1.jpeg",
+"p1.jpeg",
 
-"surant/p2.jpeg",
+"p2.jpeg",
 
-"surant/p3.jpeg",
+"p3.jpeg",
 
-"surant/p4.jpeg",
+"p4.jpeg",
 
-"surant/p5.jpeg",
+"p5.jpeg",
 
-"surant/p6.jpeg",
+"p6.jpeg",
 
-"surant/p7.jpeg",
+"p7.jpeg",
 
-"surant/p8.jpeg",
+"p8.jpeg",
 
-"surant/p9.jpeg",
+"sp9.jpeg",
 
-"surant/p10.jpeg",
+"p10.jpeg",
 
-"surant/p11.jpeg",
+"p11.jpeg",
 
-"surant/p12.jpeg",
+"p12.jpeg",
 
-"surant/p13.jpeg",
+"p13.jpeg",
 
-"surant/p14.jpeg",
+"p14.jpeg",
 
 ];
 
